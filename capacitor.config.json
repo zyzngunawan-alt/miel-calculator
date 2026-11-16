@@ -2,7 +2,7 @@
 {
   "appId": "com.mielcalculator.app",
   "appName": "Miel Calculator",
-  "webDir": "dist",
+  "webDir": "www",
   "bundledWebRuntime": false
 }
 
